@@ -6,6 +6,7 @@ Some LeetCode problems I have worked on/solved
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/lukeklipping/LeetCode/tree/main/0035-search-insert-position/) | Easy |
+| [0039-combination-sum](https://github.com/lukeklipping/LeetCode/tree/main/0039-combination-sum/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -26,4 +27,8 @@ Some LeetCode problems I have worked on/solved
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/lukeklipping/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0039-combination-sum](https://github.com/lukeklipping/LeetCode/tree/main/0039-combination-sum/) | Medium |
 <!---LeetCode Topics End-->
