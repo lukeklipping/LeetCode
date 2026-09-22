@@ -20,16 +20,19 @@ Some LeetCode problems I have worked on/solved
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/lukeklipping/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/lukeklipping/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0112-path-sum](https://github.com/lukeklipping/LeetCode/tree/main/0112-path-sum/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/lukeklipping/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/lukeklipping/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0112-path-sum](https://github.com/lukeklipping/LeetCode/tree/main/0112-path-sum/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/lukeklipping/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/lukeklipping/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0112-path-sum](https://github.com/lukeklipping/LeetCode/tree/main/0112-path-sum/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -38,4 +41,5 @@ Some LeetCode problems I have worked on/solved
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/lukeklipping/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0112-path-sum](https://github.com/lukeklipping/LeetCode/tree/main/0112-path-sum/) | Easy |
 <!---LeetCode Topics End-->
