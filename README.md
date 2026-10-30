@@ -46,4 +46,8 @@ Some LeetCode problems I have worked on/solved
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/lukeklipping/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/lukeklipping/LeetCode/tree/main/0112-path-sum/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0008-string-to-integer-atoi](https://github.com/lukeklipping/LeetCode/tree/main/0008-string-to-integer-atoi/) | Medium |
 <!---LeetCode Topics End-->
